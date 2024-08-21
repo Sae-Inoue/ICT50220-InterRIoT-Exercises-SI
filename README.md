@@ -1,1 +1,1 @@
-# ICT50220-InterRIoT-Exercses-SI
+# ICT50220-InterRIoT-Exercises-SI
